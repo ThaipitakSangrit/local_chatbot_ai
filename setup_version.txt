@@ -1,0 +1,2 @@
+python version should be 3.8+
+create venv in folder to used difference version (have been used version 3.11.7)
